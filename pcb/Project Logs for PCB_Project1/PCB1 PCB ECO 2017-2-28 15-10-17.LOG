@@ -1,0 +1,25 @@
+Added Component: Designator=D1(3.2X1.6X1.1)
+Added Component: Designator=J(sh-2.0)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0402)
+Added Component: Designator=R3(0402)
+Added Pin To Net: NetName=GND Pin=J-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R3-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetJ_3 Pin=J-3
+Added Pin To Net: NetName=NetJ_3 Pin=J-3
+Added Pin To Net: NetName=NetJ_3 Pin=R1-2
+Added Pin To Net: NetName=NetJ_3 Pin=R2-1
+Added Net: Name=NetJ_3
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R1 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R2 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=R3 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Library : Designator=V1 Old Library=zhangchong.SchLib New Library=zhaoyujiu.SchLib
+Change Component Library : Designator=V2 Old Library=zhangchong.SchLib New Library=zhaoyujiu.SchLib
+Added Room: Name=Sheet1
